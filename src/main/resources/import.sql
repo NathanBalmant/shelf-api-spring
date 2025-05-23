@@ -6,3 +6,8 @@ INSERT INTO tb_produto(titulo, descricao, preco, estoque, id_tipo) VALUES ('Titu
 INSERT INTO tb_produto(titulo, descricao, preco, estoque, id_tipo) VALUES ('Titulo B', 'Descrição B', 200.00, 20.00, 2);
 INSERT INTO tb_produto(titulo, descricao, preco, estoque, id_tipo) VALUES ('Titulo C', 'Descrição C', 150.00, 140.20, 3);
 INSERT INTO tb_produto(titulo, descricao, preco, estoque, id_tipo) VALUES ('Titulo D', 'Descrição D', 300.00, 10.50, 1);
+
+INSERT INTO tb_usuario(nome, login, senha) VALUES ('Odilon', 'odilon@odilon', '123');
+INSERT INTO tb_usuario(nome, login, senha) VALUES ('Crislaine', 'crisl@crisl', '456');
+INSERT INTO tb_usuario(nome, login, senha) VALUES ('Admin', 'admin@admin', 'root');
+
